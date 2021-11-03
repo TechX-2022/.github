@@ -1,1 +1,1 @@
-# .github
+# TechX 2022
